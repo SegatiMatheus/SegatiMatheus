@@ -12,3 +12,4 @@ I'm <b>Matheus Segati</b>, a web developer from Brasil.
 - ⚙ React
 - 👁 CSS
 - 💽 PostgreSQL, MySQL, SQL
+- ⚙ Shopify CLI
